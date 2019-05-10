@@ -21,4 +21,4 @@ y seguir las instrucciones.
 ## Para Java Script
 el ejemplo esta construido con un archivo html y un archivo js que contendra la logica
 la pagina se enriquecio con bulma.js
-para acceder a la pagina y probar el programa es necesario que ingrese al siguiente [link](http://loquesea)
+para acceder a la pagina y probar el programa es necesario que ingrese al siguiente [link](https://fabianheredia.github.io/testProgramingbasic/testJavaScript/)
