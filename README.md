@@ -1,6 +1,8 @@
 # testProgramingbasic
-Prueba basica de progamacion en Java
+Prueba basica de progamacion 
 la prueba esta en lenguaje Java y JavaScript
+
+el objeto de la prueba es desarrollar un algoritmo que reciba un texto de numeros enteros separados por ',' y se pueda determinar cuales numeros estan repetidos.
 
 ## Para java
 
